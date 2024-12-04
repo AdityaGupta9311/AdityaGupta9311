@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in backend development, full-stack projects, and exploring new technologies.
 - 🌱 I’m currently learning advanced Spring Boot concepts like Spring Security, microservices architecture, and optimizing APIs.
-- 💞️ 💞️ I’m looking to collaborate on open-source projects, backend development, or any innovative tech projects.
 - 📫 How to reach me : aditya.gupta93117@gmail.com
 - 😄 Pronouns: He/Him
 
