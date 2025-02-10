@@ -28,6 +28,7 @@ A food ordering platform with user and admin roles for order management and feed
 ## 🌱 Currently Learning
 - **React.js** for frontend development
 - **Microservices Architecture** to enhance scalability
+- **Data Structures and Algorithms (DSA)** to improve problem-solving skills
 
 ## 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/aditya-gupta-a0675731b/
