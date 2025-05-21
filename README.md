@@ -1,7 +1,7 @@
 # Hi there, I'm Aditya! 👋
 
 ## 🚀 About Me
-I'm a passionate **Java Backend Developer** with expertise in **Spring Boot** and a strong interest in **microservices architecture** and **blockchain applications in Java**. I enjoy building scalable and efficient backend systems, working with databases, and integrating APIs.
+I'm a passionate **Java Backend Developer** with expertise in **Spring Boot** and a strong interest in **microservices architecture**. I enjoy building scalable and efficient backend systems, working with databases, and integrating APIs.
 
 ## 💻 Skills
 - **Backend:** Java, Spring Boot, Spring MVC, Spring JPA, Spring Security, Hibernate, JWT
