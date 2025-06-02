@@ -18,7 +18,6 @@ A ticket booking API with a separate theater login system allowing each theater 
 ### 📌 **Ashes** 🔥
 A social media platform where users can follow others, like posts, search users, manage profiles, post content, and send messages.
 - **Tech Stack:** Spring Boot (Backend), React.js (Frontend)
-- **Challenges:** No role-based access control yet; frontend lacks responsiveness.
 
 ### 📌 **Hunger Solution** 🍽️
 A food ordering platform with user and admin roles for order management and feedback submission.
